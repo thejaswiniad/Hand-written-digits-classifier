@@ -3,3 +3,4 @@ A multi layer perceptron(MLP) neural network used to classify hand-written digit
 Without using any machine learning libraries.
 Since it is a Multi-class classification problem- Implemented Softmax activation function for the output layer
 Sigmoid activation function for the Hidden layers
+Using the MNSIT dataset for training and testing
